@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Chrome auto-samirrayan.comnew-cars",
+  "Type": "App",
+  "Id": "yFUimOsh2U21Me46lArpzw",
+  "Reference": "xR-2QL6wI0WtjxsQ86XXfw/yFUimOsh2U21Me46lArpzw",
+  "Created": "2024-07-29T21:07:05.0159611Z",
+  "Updated": "2024-07-29T21:07:05.0159611Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.0.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.10.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

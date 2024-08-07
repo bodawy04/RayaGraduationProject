@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Click 'Mercedes'",
+  "Type": "Element",
+  "TaxonomyType": "Icon",
+  "Id": "xgvuKYCLd0SePVakADOTgw",
+  "Reference": "xR-2QL6wI0WtjxsQ86XXfw/xgvuKYCLd0SePVakADOTgw",
+  "ParentRef": "xR-2QL6wI0WtjxsQ86XXfw/JEcRweiDBEKw-_1diO_XsA",
+  "Created": "2024-07-29T21:07:05.2931056Z",
+  "Updated": "2024-07-29T21:07:05.2931056Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.0.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.10.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

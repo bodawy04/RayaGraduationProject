@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Chrome auto-samirrayan.comnew-cars",
+  "Type": "Screen",
+  "Id": "JEcRweiDBEKw-_1diO_XsA",
+  "Reference": "xR-2QL6wI0WtjxsQ86XXfw/JEcRweiDBEKw-_1diO_XsA",
+  "ParentRef": "xR-2QL6wI0WtjxsQ86XXfw/YhaYBaU1dUGrwwAxIdkTrw",
+  "Created": "2024-07-29T21:07:05.054497Z",
+  "Updated": "2024-07-29T21:07:05.054497Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.0.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.10.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

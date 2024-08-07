@@ -1,0 +1,96 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Main.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "senderName&Sequence_1",
+        "j&Sequence_28",
+        "mainListOfBrands&Sequence_1",
+        "i&Sequence_1",
+        "brandsToBeSearched&Sequence_1",
+        "outlookBrands&Sequence_1",
+        "brandsString&Sequence_6",
+        "MainConfig&Sequence_1",
+        "BE&Sequence_1",
+        "SE&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Processes/Config/Initialization.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "listOfSheets&Sequence_2",
+        "currentSheetDatatable&Sequence_3",
+        "assetsDatatable&Sequence_4",
+        "CurrentAssetVal&Sequence_5"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "out_BE",
+        "out_SE",
+        "out_Config"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Processes/Core/Openning Website.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "carBrand&Sequence_3",
+        "carsURL&Sequence_3",
+        "listOfCarsURL&Sequence_3",
+        "result&Sequence_3",
+        "CurrentElement_Label&Sequence_2",
+        "CurrentElement&Sequence_2",
+        "i&Sequence_2"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "in_listOfBrands",
+        "tableOfBrands"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Processes/Core/ExtractingFromMSOutlook.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "res&Sequence_7",
+        "listOfEmails&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "out_senderName",
+        "out_outlookBrands",
+        "out_BE",
+        "out_SE"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Processes/Core/Testing.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "finallll&Sequence_1",
+        "i&Sequence_1",
+        "final&Sequence_1",
+        "test&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    }
+  ]
+}
